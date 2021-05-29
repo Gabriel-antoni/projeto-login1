@@ -1,0 +1,42 @@
+button {
+  background-color: black;
+  color: #fff;
+  border-radius: 5px;
+  border: 2px solid red;
+  padding: 5px;
+  width: 100px;
+}
+
+input {
+  background-color: black;
+  color: #fff;
+  border-radius: 5px;
+  border: 2px solid red;
+}
+
+label {
+  background-color: black;
+  color: #fff;
+  border-radius: 5px;
+  border: 2px solid red;
+  margin-right: 10px;
+  padding: 0px 8px 0px 8px;
+}
+
+.conteiner2 {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  border: 2px solid red;
+  padding: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 100px;
+}
+
+#nome2 {
+  font-family: Fantasy;
+  -webkit-text-stroke-width: 2px;
+  font-size: 50px;
+  -webkit-text-stroke-color: red;
+}
